@@ -1,7 +1,6 @@
 # Personal Finance Manager (Android - Java)
 A powerful and easy-to-use Android app built using Java for managing personal finances. This project allows users to efficiently track income and expenses, analyze financial reports, and stay in control of their
 
-# Features
 # Transaction Management
 Add, view, and delete transactions.
 Filter by category, type, or date.
