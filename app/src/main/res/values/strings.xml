@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Personal Finance Manager</string>
+    <string-array name="transaction_types">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+    <string-array name="transaction_categories">
+        <item>Salary</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="sort_options">
+        <item>Date: Newest First</item>
+        <item>Date: Oldest First</item>
+        <item>Amount: High to Low</item>
+        <item>Amount: Low to High</item>
+    </string-array>
+    <string-array name="filter_types">
+        <item>All Types</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+    <string-array name="filter_categories">
+        <item>All Categories</item>
+        <item>Salary</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="currencies">
+        <item>INR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+</resources>
